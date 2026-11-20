@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="GaiaGPS" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Fotos Lote 1-A</name>
+    <time>2026-11-14T11:49:29Z</time>
+  </metadata>
+  <wpt lat="-32.988514" lon="-71.515570">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P09 Z1 · Humedal urbano (cauce) (opcional)</name>
+    <desc>Mirar: Hacia el cauce. Cauce del humedal urbano: agua, vegetación ribereña, basura o descargas si las hay.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.990881" lon="-71.513671">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P02 Z3 · Franja urbanizable (sur)</name>
+    <desc>Mirar: Hacia el S (SC-08) y panorámica. Contacto con Gómez Carreño y subcentro SC-08: viviendas, calles, postes, red de agua.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.987591" lon="-71.513920">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P06 Z3 · Franja urbanizable (norte)</name>
+    <desc>Mirar: Panorámica 360°; hacia el N (estero). Panorámica 360°: vegetación, alteración, vista hacia la ciudad y hacia la quebrada.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.991756" lon="-71.516106">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P10 Z1 · Ladera de pendiente fuerte (opcional)</name>
+    <desc>Mirar: Lateral a la ladera, persona como escala. Mostrar la pendiente real con una persona como escala. Contraste con la franja Z3.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.988483" lon="-71.519683">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P12 ZEU 7 poniente (opcional)</name>
+    <desc>Mirar: Hacia el O (estero). Panorámica hacia el poniente y el estero; evidencia de intervención.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.989169" lon="-71.513788">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P03 Z3 · Franja urbanizable (centro)</name>
+    <desc>Mirar: Panorámica 360° (N, E, S, O) + suelo. Panorámica 360° + suelo: mostrar terreno casi plano, senderos, basura, especies exóticas.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.985628" lon="-71.513717">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P07 Vía proyectada (nororiente) (opcional)</name>
+    <desc>Mirar: Hacia el NO y SE (trazado de la vía). Trazado de la vía PREMVAL proyectada: huellas, caminos existentes, conectividad.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.989513" lon="-71.515746">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P08 Z1 · Quebrada principal (opcional)</name>
+    <desc>Mirar: Aguas arriba (N) y abajo (S). Quebrada con vegetación: valor ecológico que se propone conservar. Foto aguas arriba y abajo.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.989158" lon="-71.514319">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P04 Mirador hacia la quebrada (borde poniente de Z3)</name>
+    <desc>Mirar: Hacia el O (quebrada). Desde el borde de la franja, fotografiar hacia el poniente la quebrada y su vegetación: muestra el valor que se propone conservar y el contraste con la franja plana. No es necesario bajar.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.988565" lon="-71.516968">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P11 ZEU 7 centro-poniente (opcional)</name>
+    <desc>Mirar: Panorámica. Estado del suelo y la vegetación en la segunda ZEU 7: alteración, pastoreo, quemas.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.991655" lon="-71.514423">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P01 Acceso sur / borde urbano</name>
+    <desc>Mirar: Hacia el N (predio) y hacia el S (ciudad). Acceso al predio desde la ciudad: calle, portón, huellas de vehículos, microbasurales.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <wpt lat="-32.988795" lon="-71.513239">
+    <time>2026-11-14T11:49:29Z</time>
+    <name>P05 Borde oriente (Carabineros)</name>
+    <desc>Mirar: Hacia el E (Carabineros) y hacia el O (franja). Deslinde con recinto de Carabineros: cercos, construcciones vecinas, accesos.</desc>
+    <sym>red-pin-down</sym>
+  </wpt>
+  <trk>
+    <name>Lote 1-A</name>
+    <trkseg>
+      <trkpt lat="-32.991425" lon="-71.513115">
+      </trkpt>
+      <trkpt lat="-32.984756" lon="-71.513107">
+      </trkpt>
+      <trkpt lat="-32.988316" lon="-71.520599">
+      </trkpt>
+      <trkpt lat="-32.988342" lon="-71.520203">
+      </trkpt>
+      <trkpt lat="-32.988842" lon="-71.519699">
+      </trkpt>
+      <trkpt lat="-32.989037" lon="-71.519753">
+      </trkpt>
+      <trkpt lat="-32.989140" lon="-71.519539">
+      </trkpt>
+      <trkpt lat="-32.990414" lon="-71.519592">
+      </trkpt>
+      <trkpt lat="-32.990406" lon="-71.519173">
+      </trkpt>
+      <trkpt lat="-32.990982" lon="-71.518715">
+      </trkpt>
+      <trkpt lat="-32.989838" lon="-71.518494">
+      </trkpt>
+      <trkpt lat="-32.990185" lon="-71.516693">
+      </trkpt>
+      <trkpt lat="-32.992420" lon="-71.516632">
+      </trkpt>
+      <trkpt lat="-32.992706" lon="-71.516296">
+      </trkpt>
+      <trkpt lat="-32.992271" lon="-71.516258">
+      </trkpt>
+      <trkpt lat="-32.992062" lon="-71.515923">
+      </trkpt>
+      <trkpt lat="-32.990875" lon="-71.515320">
+      </trkpt>
+      <trkpt lat="-32.991772" lon="-71.514458">
+      </trkpt>
+      <trkpt lat="-32.992085" lon="-71.514404">
+      </trkpt>
+      <trkpt lat="-32.991333" lon="-71.513901">
+      </trkpt>
+      <trkpt lat="-32.991425" lon="-71.513115">
+      </trkpt>
+    </trkseg>
+  </trk>
+  <rte>
+    <name>Recorrido esencial (P01 a P06)</name>
+<rtept lat="-32.991653" lon="-71.514420">
+</rtept>
+<rtept lat="-32.990883" lon="-71.513672">
+</rtept>
+<rtept lat="-32.989170" lon="-71.513786">
+</rtept>
+<rtept lat="-32.989159" lon="-71.514320">
+</rtept>
+<rtept lat="-32.988796" lon="-71.513237">
+</rtept>
+<rtept lat="-32.987591" lon="-71.513924">
+</rtept>
+  </rte>
+  <trk>
+    <name>Z3 Franja urbanizable</name>
+    <trkseg>
+      <trkpt lat="-32.988728" lon="-71.513176">
+      </trkpt>
+      <trkpt lat="-32.987629" lon="-71.513443">
+      </trkpt>
+      <trkpt lat="-32.987122" lon="-71.513832">
+      </trkpt>
+      <trkpt lat="-32.986908" lon="-71.514366">
+      </trkpt>
+      <trkpt lat="-32.990452" lon="-71.514427">
+      </trkpt>
+      <trkpt lat="-32.990997" lon="-71.514107">
+      </trkpt>
+      <trkpt lat="-32.991413" lon="-71.514061">
+      </trkpt>
+      <trkpt lat="-32.991310" lon="-71.513855">
+      </trkpt>
+      <trkpt lat="-32.991371" lon="-71.513153">
+      </trkpt>
+      <trkpt lat="-32.988728" lon="-71.513176">
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
