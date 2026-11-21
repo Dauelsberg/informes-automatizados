@@ -2,7 +2,7 @@
 
 Cartas de observación y anexos para la consulta pública de la Imagen Objetivo del Plan Regulador Comunal de Viña del Mar (28 de octubre al 27 de noviembre de 2026).
 
-Elaboración técnica: Komun – Gestión en Medio Ambiente (Patricia Dauelsberg, PhD en Ciencias, PUC).
+Elaboración técnica: Komun – Gestión en Medio Ambiente.
 
 | Carpeta | Contenido |
 |---|---|
